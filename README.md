@@ -14,7 +14,7 @@ This project demonstrates a **custom Liquid Glass (Glassmorphism)** effect in Sw
 
 ## Demo Video
 
-![Login Screen](assets/videos/login.MP4)
+![Login Screen](assets/videos/login.mov)
 
 ## Installation
 
