@@ -14,13 +14,14 @@ This project demonstrates a **custom Liquid Glass (Glassmorphism)** effect in Sw
 
 ## Demo Video
 
-![Login Screen](assets/videos/login.mov)
+[Download Demo Video](assets/videos/login.mov)
+
+*Note: GitHub does not support inline video playback, so click the link to download or view the video.*
 
 ## Installation
 
 ```bash
 git clone https://github.com/FarhanMehran/liquidglassexample.git
-```
 
 ## Features
 
