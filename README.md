@@ -6,15 +6,15 @@ This project demonstrates a **custom Liquid Glass (Glassmorphism)** effect in Sw
 
 ### Light Mode
 
-![Light Mode](assets/images/light.png)
+![Light Mode](assets/images/light.jpeg)
 
 ### Dark Mode
 
-![Dark Mode](assets/images/dark.png)
+![Dark Mode](assets/images/dark.jpeg)
 
 ## Demo Video
 
-[https://github.com/FarhanMehran/liquidglassexample/assets/videos/login.MP4](https://github.com/FarhanMehran/liquidglassexample/assets/videos/login.MP4)
+![Login Screen](assets/videos/login.MP4)
 
 ## Installation
 
